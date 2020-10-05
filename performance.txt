@@ -1,0 +1,15 @@
+Hadoop:
+Timed using CLI command: time <command>
+
+Program			Time  Taken
+Covid19_1.java: 	0m 28.998s
+Covid19_2.java: 	0m 26.774s
+Covid19_3.java: 	0m 26.370s
+
+
+Spark:
+Datetime function added in python file and printed difference between start and end time of program.
+
+Program			Time  Taken
+SparkCovid19_1.py: 	2.439036 seconds
+SparkCovid19_2.py: 	2.146899 seconds
